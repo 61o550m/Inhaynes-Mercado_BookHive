@@ -5,7 +5,6 @@
 <div class="info-container" style="padding:0 40px; max-width:none;">
 
 
-    {{-- HELP --}}
     <div id="help">
         <div class="info-section-title">Help</div>
         <div class="yellow-separator"></div>
